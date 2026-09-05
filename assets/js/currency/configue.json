@@ -1,0 +1,6 @@
+{
+    "defaultCurrency": "usd",
+    "supportedCurrencies": ["usd", "eur", "gbp", "ngn"],
+    "currency_thousand_separator": ",",
+    "currency_decimal_separator": "."
+}

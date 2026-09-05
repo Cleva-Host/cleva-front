@@ -1,0 +1,6 @@
+[
+    { "cc": "USD", "symbol": "$", "name": "US Dollar" },
+    { "cc": "EUR", "symbol": "€", "name": "Euro" },
+    { "cc": "GBP", "symbol": "£", "name": "British Pound" },
+    { "cc": "NGN", "symbol": "₦", "name": "Nigerian Naira" }
+]
