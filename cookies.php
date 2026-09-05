@@ -83,7 +83,7 @@ $bodyClass = 'page-template template-resell';
                             <strong>Cleva</strong><br>
                             Email: <a href="mailto:support@clevahost.com">support@clevahost.com</a><br>
                             Address: Dhaka, Bangladesh<br>
-                            Phone: <a href="tel:+8801712345678">+8801712345678</a>
+                            Phone: <a href="tel:+18001234567">+1 (800) 123-4567</a>
                         </address>
                     </div>
                 </div>

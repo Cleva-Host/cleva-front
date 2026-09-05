@@ -11,7 +11,7 @@
                         <div class="separator site-default-border"></div>
 
                         <div class="contact-method">
-                            <a href="tell:+1234567890"><span><i class="fa-regular fa-phone"></i></span>+1 (800) 123-4567</a>
+                            <a href="tel:+18001234567"><span><i class="fa-regular fa-phone"></i></span>+1 (800) 123-4567</a>
                             <a href="mailto:support@clevahost.com"><span><i class="fa-light fa-envelope"></i></span>support@clevahost.com</a>
                         </div>
                     </div>

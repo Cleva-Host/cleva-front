@@ -84,8 +84,7 @@ $bodyClass = 'page-template template-resell';
                             </div>
                             <div class="content w-220">
                                 <h5 class="info mb-0">
-                                    <a href="callto:11112542174">(555) 123-4567</a> <br>
-                                    <a href="callto:11112542174">(111) 125- 42174</a>
+                                    <a href="tel:+18001234567">+1 (800) 123-4567</a>
                                 </h5>
                             </div>
 

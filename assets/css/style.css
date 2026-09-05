@@ -24445,6 +24445,10 @@ input:checked + .slider:before {
   flex-direction: column;
   gap: 15px;
 }
+.rts-footer__widget .contact-method a {
+  display: flex;
+  align-items: center;
+}
 .rts-footer__widget .contact-method a span {
   height: 34px;
   width: 34px;
@@ -24600,6 +24604,8 @@ input:checked + .slider:before {
   gap: 15px;
 }
 .rts-footer.site-footer-four .rts-footer__widget .contact-method a {
+  display: flex;
+  align-items: center;
   color: #fff;
 }
 .rts-footer.site-footer-four .rts-footer__widget .contact-method a span {
